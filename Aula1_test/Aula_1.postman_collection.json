@@ -1,0 +1,36 @@
+{
+	"info": {
+		"_postman_id": "6d59e878-0b76-4646-8893-a09128b8ec49",
+		"name": "Aula_1",
+		"description": "Destinado a aula de S106\n\nValidar frequencia 19-05-2025",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "45001956",
+		"_collection_link": "https://paulo-6632598.postman.co/workspace/Paulo's-Workspace~af6f2442-e25f-46b6-8f9e-62606410915c/collection/45001956-6d59e878-0b76-4646-8893-a09128b8ec49?action=share&source=collection_link&creator=45001956"
+	},
+	"item": [
+		{
+			"name": "Localiza_Pokemon",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Nao_localiza_Pokemon",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Endpointfalho",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
